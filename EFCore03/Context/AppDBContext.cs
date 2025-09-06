@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EFCore03.Context
 {
-    internal class AppDBContext 
+    internal class AppDBContext  
     {
         #region TPC
         //public DbSet<Employee> Employees { get; set; }
